@@ -131,3 +131,4 @@ Whois
 =====
 
 If you desire to query the IP ``whois`` database and obtain the origin of the banned IP by email, you could  Install the ``whois`` rpm.
+whois runs on port 43. Make sure port 43 is open to the public.
